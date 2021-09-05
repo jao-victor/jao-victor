@@ -1,7 +1,7 @@
 
 <div>
 
-  <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jao-victor&show_icons=true&hide_border=true">
 
 <div/>
   
