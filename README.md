@@ -48,5 +48,5 @@
 
 <div/>
   
-                                                                                                 ![Profile views](https://gpvc.arturio.dev/jao-victor)
+ ![Profile views](https://gpvc.arturio.dev/jao-victor)
   
