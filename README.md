@@ -1,11 +1,3 @@
-
-<div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jao-victor&show_icons=true&hide_border=true">
-
-<div/>
-  
- <br>
   
 <div>
   <h3> 💻 Languages and Tools </h3>
@@ -20,3 +12,11 @@
  
     
 </div> 
+
+
+<div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jao-victor&show_icons=true&hide_border=true">
+
+<div/>
+  
