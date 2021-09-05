@@ -18,7 +18,7 @@
 -  **Trabalhando :** Auxiliar Técnico em Redes de Computadores 🌐 
 -  **Aprendendo :** Full-Stack | Open-Source 
 -  **Hist. Acadêmico :** Téc. Informática | Cursando Sistemas de Informação 
--  **Hobbies :** Musica 🎧 | Guitarra 🎸 
+-  **Hobbies :** Música 🎧 | Guitarra 🎸 
 -  **Curiosidades :** Em vez de café, prefiro tereré 🧉😅 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
