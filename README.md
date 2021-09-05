@@ -5,7 +5,7 @@
 
 <div/>
   
- <hr>
+ <br>
   
 <div>
   <h3> 💻 Languages and Tools </h3>
