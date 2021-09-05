@@ -1,6 +1,10 @@
 
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div>
 
+  <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+
+<div/>
+  
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
