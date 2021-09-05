@@ -1,10 +1,20 @@
 <div>
 
+  <h1 align="center"> Olá, sou o Jão 👨‍💻 </h1>
   
+<div/>
+
+
+
+
+
+
+<div>
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Sobre
 -  **Trabalhando :** Auxiliar Técnico em Redes de Computadores 🌐 
--  **Learning :** Full-Stack | Open-Source 
+-  **Aprendendo :** Full-Stack | Open-Source 
 -  **Hobbies :** Musica 🎧 | Guitarra 🎸 
 -  **Curiosidades :** Em vez de café, prefiro tereré 🧉😅 
 
@@ -14,7 +24,7 @@
 
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3> 💻 Linguagens e Ferramentas</h3>
   <p>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
@@ -27,7 +37,7 @@
     
 </div> 
 
- <h3> 🧑‍💻 Statistics </h3>
+ <h3> 🧑‍💻 Estatísticas </h3>
 
 <div>
 
