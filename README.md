@@ -15,7 +15,7 @@
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Sobre
--  **Trabalhando :** Auxiliar Técnico em Redes de Computadores 🌐 
+-  **Trabalhando :** Técnico em Redes de Computadores 🌐 (Junior) 
 -  **Aprendendo :** Full-Stack | Open-Source 
 -  **Hist. Acadêmico :** Téc. Informática | Cursando Sistemas de Informação 
 -  **Hobbies :** Música 🎧 | Guitarra 🎸 - Contra Baixo 
