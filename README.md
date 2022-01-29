@@ -17,7 +17,7 @@
 ### 🤔 Sobre
 -  **Trabalhando :** Técnico em Redes de Computadores 🌐 (Junior) 
 -  **Aprendendo :** Full-Stack | Open-Source 
--  **Hist. Acadêmico :** Téc. Informática | Análise e Desenvolvimento de Sistemas 
+-  **Hist. Acadêmico :** Téc. Informática | Cursando Análise e Desenvolvimento de Sistemas 
 -  **Hobbies :** Música 🎧 | Guitarra 🎸 - Contra Baixo 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
